@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThNj
 - 👀 I’m interested in Artificial inteligence 
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... g28791086@gmail.com
 
